@@ -1,0 +1,8 @@
+forecastHourly:
+          url: "https://forecast9.p.rapidapi.com/rapidapi/forecast/Berlin/hourly/"
+forecastSummary:
+          url: "https://forecast9.p.rapidapi.com/rapidapi/forecast/Berlin/summary/"
+
+key: "f2e75fb767mshf8b317efbc1b3b0p1c2526jsnefd031ec34de"
+
+host: "forecast9.p.rapidapi.com"
